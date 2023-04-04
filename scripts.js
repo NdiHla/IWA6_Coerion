@@ -3,11 +3,11 @@ const secondaryPhone = '0219131568'
 
 // Only change below this line
 
-const primaryValid = typeof number == primaryPhone
-const secondaryValid = typeof number == secondaryPhone
+const primaryValid = typeof number == 'O748105141'
+const secondaryValid = typeof number == '0219131568'
 
-console.log('Primary phone is valid numerical string:', primaryValid)
-console.log('Secondary phone is valid numerical string:', secondaryValid)
+console.log('Primary phone is valid numerical string:', Boolean)
+console.log('Secondary phone is valid numerical string:', Boolean)
 
 
 const rent = 400;
