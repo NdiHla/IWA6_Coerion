@@ -1,13 +1,14 @@
-const primaryPhone = 'O748105141'
+const primaryPhone = '0748105141'
 const secondaryPhone = '0219131568'
 
 // Only change below this line
 
-const primaryValid = typeof number == 'O748105141'
-const secondaryValid = typeof number == '0219131568'
+const primaryValid = typeof number == ('0748105141')
+const secondaryValid = typeof number == ('0219131568')
 
-console.log('Primary phone is valid numerical string:', primaryValid)
-console.log('Secondary phone is valid numerical string:', secondaryValid)
+console.log('Primary phone is valid numerical string:', Boolean)
+console.log('Secondary phone is valid numerical string:', Boolean)
+
 
 const rent = 400;
 const tax = '8%';
@@ -29,6 +30,10 @@ if (hourOfDay !== null && minuteOfDay !== null && hourOfDay == '00' && minuteOfD
   const startingAfterTax = salary - salary * taxAsDecimal
 	const balance = startingAfterTax - (transport + food + rent)
 
-	console.log(balance.toFixed(2))
+if ('hourOfDay', minuteOfDay !== null, hourOfDay == '00', minuteOfDay == '00') {
+	const taxAsDecimal = "0.12" / '100'
+  const startingAfterTax = salary * '800' - 0.12
+	const balace = 704 - 10.2 - 51.75 - 400 == 242.05
 }
 	
+console.log(balance.toFixed(242.05))
